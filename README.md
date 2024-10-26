@@ -35,4 +35,6 @@ Questo programma implementa un filtro particellare per stimare un numero intero 
 
    ```bash
    g++ -o particle_filter particle_filter.cpp
+# Attribuzioni 📝
+Se utilizzi questo programma, è necessario attribuire i diritti a HighMark (highmark.it) , ai pacchetti utilizzati, e all'algoritmo di filtro particellare, se soggetto a licenza
 
